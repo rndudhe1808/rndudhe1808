@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rameshwar Dudhe
 - 👀 I’m interested in open-source technologies
-- 🌱 I’m currently learning Openshift
+- 🌱 I’m currently learning Terraform
 - 📫 Follow me on Linkedin linkedin.com/in/rameshwar-dudhe-b9425514a
 
 <!---
