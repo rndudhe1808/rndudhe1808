@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Rameshwar Dudhe
-- 👀 I’m interested in open-source Devops technologies
-- 🌱 I’m currently im looking for devops engineer role
-- 📫 Follow me on Linkedin linkedin.com/in/rameshwar-dudhe-b9425514a
+👋 Hi, I'm Rameshwar Dudhe
+🔧 About Me
 
-<!---
-rndudhe1808/rndudhe1808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Linux and DevOps enthusiast with hands-on experience in Linux, DevOps, and cloud technologies.
+🚀 Passionate about automating workflows and optimizing infrastructure for seamless deployments and operations.
+
+💻 Skills & Technologies
+DevOps Tools: Jenkins, Docker, Kubernetes, Terraform, GitHub Actions, Ansible, Podman, Buildah.
+Cloud Platforms: AWS, OpenShift, CloudStack.
+Programming: Basic Python, Shell Scripting.
+Certifications: RHCSA (EX200), Red Hat Certified Specialist in Containers (EX188).
+Tools: Ansible, Flask, Nginx, Apache, Mail Servers (Zimbra, Carbonio).
+
+🌟 What I'm Working On
+Designing and deploying scalable infrastructures using AWS ECS/Fargate for modern applications.
+Automating IT processes using Ansible for configuration management and deployment.
+Building containerized microservices with Docker and orchestrating them using Kubernetes.
+
+🎯 Goals
+Earning certifications like CKA, OpenShift Administrator, and RHCE.
+Transitioning into a Site Reliability Engineer (SRE) role to further enhance system reliability and scalability.
+Learning advanced concepts in cloud-native development and SRE practices.
